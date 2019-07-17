@@ -37,6 +37,7 @@
   },
   "bugs": {
     "url": "https://github.com/fabricjs/fabric.js/issues"
+    
   },
   "license": "MIT",
   "scripts": {
@@ -73,5 +74,6 @@
     "node": ">=8.0.0"
   },
   "main": "./dist/fabric.js",
-  "dependencies": {}
+  "dependencies": {},
+  "private": true
 }
